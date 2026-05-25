@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionuender",
+        "uuid": 93005,
+        "checksum": "vdtiwr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
